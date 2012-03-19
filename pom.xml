@@ -18,6 +18,13 @@
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
+			<groupId>org.getspout</groupId>
+			<artifactId>spoutpluginapi</artifactId>
+			<version>dev-SNAPSHOT</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
 			<groupId>com.theminequest</groupId>
 			<artifactId>MineQuest</artifactId>
 			<version>dev-SNAPSHOT</version>
