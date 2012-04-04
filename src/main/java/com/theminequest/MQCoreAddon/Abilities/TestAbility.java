@@ -3,7 +3,7 @@ package com.theminequest.MQCoreAddon.Abilities;
 import org.bukkit.event.player.PlayerEggThrowEvent;
 import org.bukkit.event.player.PlayerEvent;
 
-import com.theminequest.MineQuest.AbilityAPI.Ability;
+import com.theminequest.MQCoreRPG.API.Abilities.Ability;
 
 public class TestAbility extends Ability {
 

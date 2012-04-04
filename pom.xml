@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<name>MineQuest-1-Abilities</name>
+	<name>MineQuest-Abilities</name>
 	<groupId>com.theminequest</groupId>
 	<artifactId>MineQuest-1-Abilities</artifactId>
 	<packaging>jar</packaging>
@@ -28,6 +28,13 @@
 		<dependency>
 			<groupId>com.theminequest</groupId>
 			<artifactId>MineQuest</artifactId>
+			<version>dev-SNAPSHOT</version>
+			<type>jar</type>
+			<scope>compile</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.theminequest</groupId>
+			<artifactId>MineQuest-RPG</artifactId>
 			<version>dev-SNAPSHOT</version>
 			<type>jar</type>
 			<scope>compile</scope>
