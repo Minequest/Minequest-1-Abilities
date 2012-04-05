@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<name>MineQuest-Abilities</name>
 	<groupId>com.theminequest</groupId>
-	<artifactId>MineQuest-1-Abilities</artifactId>
+	<artifactId>MineQuest-Abilities</artifactId>
 	<packaging>jar</packaging>
 	<version>dev-SNAPSHOT</version>
 	<properties>
