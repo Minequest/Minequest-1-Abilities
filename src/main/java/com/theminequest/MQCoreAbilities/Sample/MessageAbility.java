@@ -1,4 +1,4 @@
-package com.theminequest.MQCoreAddon.Abilities;
+package com.theminequest.MQCoreAbilities.Sample;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.player.PlayerEggThrowEvent;

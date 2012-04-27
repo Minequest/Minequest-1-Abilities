@@ -1,5 +1,5 @@
-name: MineQuest-1-Abilities
-main: com.theminequest.MQCoreAddon.MQAbilities
+name: MineQuest-Abilities
+main: com.theminequest.MQCoreAbilities.MQAbilities
 version: 0.1
 
 commands:

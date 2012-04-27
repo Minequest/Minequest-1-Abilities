@@ -1,4 +1,4 @@
-package com.theminequest.MQCoreAddon;
+package com.theminequest.MQCoreAbilities;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
